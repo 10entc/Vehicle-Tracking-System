@@ -1,4 +1,4 @@
-Connect Arduino and GSM
+Connect Arduino and GSM IN Arduino IDE
 #include <SoftwareSerial.h>
 
 SoftwareSerial mySerial(9, 10);
