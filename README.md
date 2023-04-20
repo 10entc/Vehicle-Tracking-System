@@ -1,2 +1,6 @@
 # Vehicle-Tracking-System
 To help in Vehicle tracking, component monitoring, vehicle analysis and fleet management. 
+Vehicle Tracking Device (VTD). VTD is a tracking device focusing on vehicles that use Short Message Service (SMS). VTD will give information of location coordinate to mobile phone whenever there is a request for it through the SMS. The developed system is based on wireless technologies of the Global Positioning System (GPS) and Global System for Mobile Communication module. The integrated Global Positioning System and Global System for Mobile communication (GPS-GSM) is used to track vehicle using application such as   Google Maps. 
+VTD is an integration of both hardware and software. The hardware components include a microcontroller, Arduino Uno board, sim-card slot, signal antenna, battery and mobile phone as well as a program controller interface. 
+A vehicle tracking system assists public transportation users in their movements by providing real-time information on the locations of vehicles in transit. The system is efficient and accurate in distance and time information display with a minor delay. The system would enhance fleet management schemes for urban arterial and can be adopted universally . 
+Arduino  chip was used as the logical control unit for processing activities in the tracking system and programming in Arduino IDE 
